@@ -107,6 +107,6 @@ print(result)
   year = {2023}, 
   publisher = {GitHub}, 
   journal = {GitHub repository}, 
-  howpublished = {\url{https://github.com/thomas-yanxin/Sunsimiao}}, 
+  howpublished = {\url{https://github.com/X-D-Lab/Sunsimiao}}, 
 }
 ```
