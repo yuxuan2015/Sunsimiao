@@ -22,7 +22,7 @@
 
 **Sunsimiao: Chinese Medical LLM**(Abbreviations: Sunsimiao)hopes to follow the trajectory of Sun Simiao's life, focusing on folk medical experience, accumulating Chinese medical data, and attaching it to the model, dedicated to providing **safe, reliable, and universal** Chinese medical grand model.
 
-At present, **Sunsimiao** is fine-tuned from **baichuan-7B** and **ChatGLM-6B series** of 100, 000 high quality Chinese medical data, and more data will be collected to expand the model's capabilities and iterate on the update. The details are being worked on, so stay tuned.
+At present, **Sunsimiao** is fine-tuned from **baichuan-7B**、**ChatGLM-6B**、**InternLM-Chat-7B**of 100, 000 high quality Chinese medical data, and more data will be collected to expand the model's capabilities and iterate on the update. The details are being worked on, so stay tuned.
 
 ### List of models
 
