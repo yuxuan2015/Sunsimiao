@@ -31,8 +31,8 @@
 | :----: | :----: | :----: |
 | Sunsimiao-01M | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao_lora/summary) / [huggingface](https://huggingface.co/thomas-yanxin/Sunsimiao-0.1M-lora) | [modelscope](https://modelscope.cn/models/AI-ModelScope/Sunsimiao/summary) / huggingface |
 | Sunsimiao-01M-Chat | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao-01M-Chat-lora/summary) / huggingface | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao-01M-Chat/summary) / huggingface |
-| Sunsimiao-01M-6B | modelscope / huggingface | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao-6B/summary) / huggingface |
-| Sunsimiao-InternLM-01M | modelscope / huggingface | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao-InternLM-01M/summary) / huggingface |
+| Sunsimiao-01M-6B* | modelscope / huggingface | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao-6B/summary) / huggingface |
+| Sunsimiao-InternLM-01M* | modelscope / huggingface | [modelscope](https://modelscope.cn/models/thomas/Sunsimiao-InternLM-01M/summary) / huggingface |
 
 ### 使用方法
 
