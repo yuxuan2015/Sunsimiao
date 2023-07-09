@@ -75,14 +75,12 @@ print(result)
 4. [文心一格](https://yige.baidu.com/): 生成模型logo
 
 ```
-
 @Misc{llama-efficient-tuning, 
   title = {LLaMA Efficient Tuning}, 
   author = {hiyouga}, 
   howpublished = {\url{https://github.com/hiyouga/LLaMA-Efficient-Tuning}}, 
   year = {2023}
 }
-
 ```
 
 <a href="https://github.com/thomas-yanxin/Sunsimiao/graphs/contributors">
@@ -100,7 +98,6 @@ print(result)
 ### 引用
 
 ```
-
 @misc{Sunsimiao, 
   author={Xin Yan, Dong Xue*}, 
   title = {Sunsimiao: Chinese Medicine LLM}, 
