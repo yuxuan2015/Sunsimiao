@@ -21,9 +21,9 @@
 
 **孙思邈**, 唐代医药学家、道士, 被后人尊称为"药王". 其十分重视民间的医疗经验, 不断积累走访, 及时记录下来, 写下著作《千金要方》. 唐朝建立后, 孙思邈接受朝廷的邀请, 与政府合作开展医学活动, 完成了世界上第一部国家药典《唐新本草》.  
 
-**孙思邈中文医疗大模型**(简称: Sunsimiao)希望能够遵循孙思邈的生平轨迹, 重视民间医疗经验, 不断累积中文医疗数据, 并将数据附加给模型, 致力于提供**安全、可靠、普惠**的中文医疗大模型.
+**孙思邈中文医疗大模型**(简称: Sunsimiao)希望能够遵循孙思邈的生平轨迹, 重视民间医疗经验, 不断累积中文医疗数据, 并将数据附加给模型, 致力于提供**安全、可靠、普惠**的中文医疗大模型.  
 
-目前, **Sunsimiao**是由**baichuan-7B**、**ChatGLM-6B系列**、**InternLM-Chat-7B**在十万级高质量的中文医疗数据中微调而得, 后续将收集更多数据, 扩充模型能力, 不断迭代更新. 相关细节工作正在整理, 敬请期待.
+此外, 本团队同时关注人们的心理健康, 致力于为用户提供**隐私、温暖、舒适、及时、方便**的心理服务的[MindChat(漫谈)心理大模型](https://github.com/X-D-Lab/MindChat), 敬请批评指证!
 
 ### 模型列表
 
@@ -75,12 +75,14 @@ print(result)
 4. [文心一格](https://yige.baidu.com/): 生成模型logo
 
 ```
+
 @Misc{llama-efficient-tuning, 
   title = {LLaMA Efficient Tuning}, 
   author = {hiyouga}, 
   howpublished = {\url{https://github.com/hiyouga/LLaMA-Efficient-Tuning}}, 
   year = {2023}
 }
+
 ```
 
 <a href="https://github.com/thomas-yanxin/Sunsimiao/graphs/contributors">
@@ -98,6 +100,7 @@ print(result)
 ### 引用
 
 ```
+
 @misc{Sunsimiao, 
   author={Xin Yan, Dong Xue*}, 
   title = {Sunsimiao: Chinese Medicine LLM}, 
