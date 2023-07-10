@@ -1,4 +1,4 @@
-<h1 align="center">Sunsimiao: Chinese Medical LLM</h1>
+<h1 align="center">Sunsimiao: Chinese Medical Large Language Model</h1>
 
 <p align="center">
 <a href="https://github.com/thomas-yanxin/Sunsimiao"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
@@ -102,7 +102,7 @@ This project was initiated by **Associate Professor Xue Dong, School of Informat
 
 @misc{Sunsimiao, 
   author={Xin Yan, Dong Xue*}, 
-  title = {Sunsimiao: Chinese Medicine LLM}, 
+  title = {Sunsimiao: Chinese Medical Large Language Model}, 
   year = {2023}, 
   publisher = {GitHub}, 
   journal = {GitHub repository}, 
