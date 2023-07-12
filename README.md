@@ -103,7 +103,7 @@ print(result)
 
 @misc{Sunsimiao, 
   author={Xin Yan, Dong Xue*}, 
-  title = {Sunsimiao: Chinese Medicine LLM}, 
+  title = {Sunsimiao: Chinese Medical Large Language Model}, 
   year = {2023}, 
   publisher = {GitHub}, 
   journal = {GitHub repository}, 
