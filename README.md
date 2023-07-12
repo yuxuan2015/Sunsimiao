@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://github.com/thomas-yanxin/Sunsimiao"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
 <a href="https://huggingface.co/thomas-yanxin/Sunsimiao-01M-lora"><img src="https://img.shields.io/badge/HuggingFace-yellow" alt="HuggingFace"></a>
-<a href="https://modelscope.cn/models/thomas/Sunsimiao_lora/summary"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
+<a href="https://modelscope.cn/organization/X-D-Lab"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
 <a href="https://openi.pcl.ac.cn/Learning-Develop-Union/Sunsimiao"><img src="https://img.shields.io/badge/-OpenI-337AFF" alt="OpenI"></a>
 </p> 
 
@@ -68,7 +68,7 @@ print(result)
 
 ### 致谢
 
-本项目由**华东理工大学 信息科学与工程学院 薛栋副教授**发起, 并受到以下项目及平台的大力支持, 在此表示感谢!
+本项目由**华东理工大学 薛栋课题组**发起, 并受到以下项目及平台的大力支持, 在此表示感谢!
 1. [LLaMA-Efficient-Tuning](https://github.com/hiyouga/LLaMA-Efficient-Tuning): 提供微调代码
 2. [OpenI启智社区](https://openi.pcl.ac.cn/): 提供模型训练算力
 3. [魔搭ModelScope](https://modelscope.cn/home): 提供训练思路和模型存储
